@@ -18,6 +18,7 @@
 </head>
 <body>
   <header>
+    <img src="logo.png" alt="Company Logo" style="height: 60px; margin-bottom: 10px;">
     <h1>สมัครงานกับเรา</h1>
     <p>ร่วมเป็นส่วนหนึ่งกับทีม Genius Traffic System</p>
   </header>
